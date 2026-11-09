@@ -60,6 +60,7 @@ buttonFour.addEventListener("click" , () =>{
     scoreBot = 0
     paragraphFive.innerText = scoreYou
     paragraphSeven.innerText = scoreBot
+    paragraphThree.innerText = ""
 })
 
 let computerChoosen
